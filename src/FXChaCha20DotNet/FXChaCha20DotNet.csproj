@@ -12,7 +12,7 @@
         <PackageProjectUrl>https://github.com/samuel-lucas6/FXChaCha20</PackageProjectUrl>
         <RepositoryUrl>https://github.com/samuel-lucas6/FXChaCha20</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
-        <PackageTags>chacha20 xchacha20 xxchacha20 hchacha20</PackageTags>
+        <PackageTags>chacha20 xchacha20 xxchacha20 hchacha20 fxchacha20 fxxchacha20 chacha20-poly1305 xchacha20-poly1305 xxchacha20-poly1305 fxchacha20-poly1305 fxxchacha20-poly1305</PackageTags>
         <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     </PropertyGroup>
 
